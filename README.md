@@ -1,5 +1,4 @@
 # Github0792
-# Github0792
 ## i want 我也想搭建一个博客
 我目前知道用GitHub pages能有一个自己的网页，
 但是我卡在了如何取域名;
